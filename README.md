@@ -9,7 +9,7 @@ Integrate a graphic model.
 Clone the repository and open the index.html file in your browser.
 
 ```
-git clone https://github.com/JuAlexandre/wild-circus.git
+git clone https://github.com/JuAlexandre/find-the-precious.git
 ```
 
 ## See the result
