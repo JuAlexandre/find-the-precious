@@ -30,7 +30,6 @@
         float: none;
         margin: 15px 0;
     }
-    /* cette classe est à ajouter lorsque que vous utilisez une version de Bootstap supérieure ou égale à la 3.1.0 */
     .navbar-collapse.collapse.in {
         display: block!important;
     }
@@ -128,20 +127,6 @@ header h2 {
 header p {
     font-size: 30px;
 }
-
-/*
-header h2 {
-    font-size: 50px;
-    position: absolute;
-    top: -270px;
-}
-
-header p {
-    font-size: 30px;
-    position: absolute;
-    top: -100px;
-}
-*/
 
 /****** ******** ******/
 
